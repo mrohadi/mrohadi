@@ -1,6 +1,5 @@
 ## Muhammad Rohadi here 👋
 
----
 
 Hi, i'm Adi. I am a motivated and passionate full-stack developer whose graduated from mechanical engineering major. Coding and making cool stuffs are things that I enjoy the most. I am skilled person in handling multiple tasks from back-end coding task to front-end design with a fast-learning, multi-tasking and strong management personality
 
