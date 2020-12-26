@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... .Net
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... http://mrohadi.xyz/
+- 📫 How to reach me: ... [My Website](http://mrohadi.xyz/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Always learning!
--->
