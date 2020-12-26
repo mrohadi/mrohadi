@@ -9,11 +9,11 @@ Hi, i'm Adi. I am a motivated and passionate full-stack developer whose graduate
 I just focus on learning asp.net core and node js for back-end, and angular and react for front-end.
 
 <p  align="center">
-     <a href="https://www.instagram.com/mrohadiii/"><img src="./img/dotnet.png" width="50"></a>
-     <a href="https://twitter.com/Rohadiii"><img src="./img/csharp.png" width="50"></a>
-     <a href="https://www.linkedin.com/in/muhammad-rohadi-3b5844142/"><img src="./img/nodejs.png" width="50"></a>
-     <a href="https://www.linkedin.com/in/muhammad-rohadi-3b5844142/"><img src="./img/angular.png" width="50"></a>
-     <a href="https://www.linkedin.com/in/muhammad-rohadi-3b5844142/"><img src="./img/react.png" width="50"></a>
+     <a href="https://docs.microsoft.com/en-us/dotnet/"><img src="./img/dotnet.png" width="50"></a>
+     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="./img/csharp.png" width="50"></a>
+     <a href="https://nodejs.dev/learn"><img src="./img/nodejs.png" width="50"></a>
+     <a href="https://angular.io/docs"><img src="./img/angular.png" width="50"></a>
+     <a href="https://reactjs.org/"><img src="./img/react.png" width="50"></a>
 </p>
 
 ### Feel free to reach me out 😄
